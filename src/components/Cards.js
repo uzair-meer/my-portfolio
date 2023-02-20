@@ -12,10 +12,7 @@ function Cards() {
           <h3 className="text-2xl font-bold text-center py-8">
             Frontend-development
           </h3>
-          <h2 className="text-2xl font-bold text-center py-4">
-            per single page
-          </h2>
-          <p className="text-xl text-center font-bold">$20</p>
+        
           <div className="text-center font-medium">
             <p className="py-2 border-b mx-8 mt-8">
               I will convert the designs to responsive html css / react with all

@@ -29,9 +29,7 @@ function Cards() {
           <h2 className="text-2xl font-bold text-center py-8">
             Backend-development
           </h2>
-          <h2 className="text-2xl font-bold text-center py-4">
-            Cost depends on project
-          </h2>
+    
 
           <div className="text-center font-medium">
             <p className="py-2 border-b mx-8 mt-8">
@@ -49,9 +47,6 @@ function Cards() {
           <h1 className="text-2xl font-bold text-center py-8">
             web-maintenance
           </h1>
-          <h2 className="text-2xl font-bold text-center py-4">
-            Cost depends on the project
-          </h2>
           <div className="text-center font-medium">
             <p className="py-2 border-b mx-8 mt-8">
               I will fix MERN-stack issues, errors and bugs. Also can add
